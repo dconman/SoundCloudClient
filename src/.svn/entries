@@ -1,0 +1,71 @@
+10
+
+dir
+182
+svn://64.189.146.211/test/SoundCloudClient/src
+svn://64.189.146.211/test
+
+
+
+2014-05-06T03:34:15.152335Z
+182
+dawson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47f0b23a-535b-41a0-a7a1-ff62e72b2fd7
+
+SoundCloudClient.java
+file
+
+
+
+
+2014-05-04T02:21:07.090000Z
+aa5143d46f99a47db0f357200bd0c999
+2014-05-04T02:22:32.853745Z
+148
+dawson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+132
+
+backend
+dir
+
+frontend
+dir
+
+org
+dir
+
