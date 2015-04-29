@@ -1,13 +1,14 @@
 # _Sound Cloud Client_
-For EECS 448
-Dawson Conway
-David Motsonashvilli
-Parker Riley
-Timothy Frese
-Philip Read
-Aaron Cowdry
-Zach Motsinger
-Jordan Miller
+
+For EECS 448  
+Dawson Conway  
+David Motsonashvilli  
+Parker Riley  
+Timothy Frese  
+Philip Read  
+Aaron Cowdry  
+Zach Motsinger  
+Jordan Miller  
 
 The .jar file represent precomplied programs, they do require Java to run.
 
