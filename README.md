@@ -7,7 +7,7 @@ Timothy Frese
 Philip Read
 Aaron Cowdry
 Zach Motsinger
-Jordan
+Jordan Miller
 
 The .jar file represent precomplied programs, they do require Java to run.
 
